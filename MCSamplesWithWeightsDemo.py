@@ -1,6 +1,6 @@
 from calcweights import *
 
-mcMap = MCSamplesWeightsMap(209, "qcdsamples.tx")
+mcMap = MCSamplesWeightsMap(209, "demosamples.tx")
 #mcMap.showMap()
 
 mapArray = mcMap.getMap()
